@@ -6,7 +6,6 @@ The source code for the [IEEE ICALT2022](https://tc.computer.org/tclt/icalt-2022
 
 ### Architecture
 
-<img src="/Users/gengyunxin/Desktop/typora_pic/image-20220325001533783.png" alt="image-20220325001533783" style="zoom:50%;" />
 
 The proposed FEAIS is composed of Three parts, i.e. **Pre-processing module**, **In-built FER model** and **Score-calculating module**.
 
